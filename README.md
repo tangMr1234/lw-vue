@@ -68,3 +68,4 @@ npm run build
 7. [vue组件之间的传值](https://www.cnblogs.com/missxiaojun/p/6882491.html)
 8. [类似js方式取url上的参数](https://www.cnblogs.com/xyyt/p/6068981.html)
 9. [npm手册](https://segmentfault.com/a/1190000009315989)
+10. [gzip开启方式](http://blog.csdn.net/qq_35844177/article/details/78599064?locationNum=4&fps=1)
