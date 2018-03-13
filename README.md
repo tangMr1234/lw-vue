@@ -64,3 +64,4 @@ npm run build
 6. [webpack的代码压缩配置](http://www.css88.com/doc/webpack2/plugins/uglifyjs-webpack-plugin/)
 7. [vue组件之间的传值](https://www.cnblogs.com/missxiaojun/p/6882491.html)
 8. [类似js方式取url上的参数](https://www.cnblogs.com/xyyt/p/6068981.html)
+9. [npm手册](https://segmentfault.com/a/1190000009315989)
