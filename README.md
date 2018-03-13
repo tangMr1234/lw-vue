@@ -1,5 +1,8 @@
 **demo**: [https://tangmr1234.github.io/run/vue/#/login](https://tangmr1234.github.io/run/vue/#/login)
 
+# 框架
+采用vue 2.5.13 + element-ui 2.0.11
+
 # 演示账户
 账户1：admin  密码：123456    
 账户2：ceshi  密码：123456
