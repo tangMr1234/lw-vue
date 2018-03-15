@@ -69,3 +69,4 @@ npm run build
 8. [类似js方式取url上的参数](https://www.cnblogs.com/xyyt/p/6068981.html)
 9. [npm手册](https://segmentfault.com/a/1190000009315989)
 10. [gzip开启方式](http://blog.csdn.net/qq_35844177/article/details/78599064?locationNum=4&fps=1)
+11. [webstorm使用npm调试vue的配置方式](http://blog.csdn.net/nihaoqiulinhe/article/details/79071293)
